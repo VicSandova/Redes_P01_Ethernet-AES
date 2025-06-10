@@ -1,0 +1,5 @@
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\phy/fsl_phy.h:206:24:PHY_GetLinkStatus	16	static
+../source/enet_txrx_transfer.c:39:8:pad_pkcs7	24	static
+../source/enet_txrx_transfer.c:49:6:encrypt_and_send	368	static
+../source/enet_txrx_transfer.c:109:6:receive_and_decrypt	1720	static
+../source/enet_txrx_transfer.c:164:5:main	32	static

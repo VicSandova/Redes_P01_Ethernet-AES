@@ -1,0 +1,8 @@
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\drivers/fsl_clock.h:777:20:CLOCK_SetRmii0Clock	16	static
+../drivers/fsl_enet.h:1187:20:ENET_ActiveRead	16	static
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\phy/fsl_phy.h:147:24:PHY_Init	16	static
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\phy/fsl_phy.h:191:24:PHY_GetAutoNegotiationStatus	16	static
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\phy/fsl_phy.h:206:24:PHY_GetLinkStatus	16	static
+D:\Eldic\NXP\MCUXpressoIDE_24.12.148\workspace\P1_enet_txrx_transfer\phy/fsl_phy.h:223:24:PHY_GetLinkSpeedDuplex	24	static
+../drivers/fsl_sysmpu.h:268:20:SYSMPU_Enable	16	static
+../drivers/enet.c:44:6:enet_init	72	static
